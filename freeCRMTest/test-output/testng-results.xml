@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="38688" started-at="2020-06-02T17:25:50Z" finished-at="2020-06-02T17:26:29Z">
+    <groups>
+    </groups>
+    <test name="FreeCrmSuit" duration-ms="38688" started-at="2020-06-02T17:25:50Z" finished-at="2020-06-02T17:26:29Z">
+      <class name="com.crm.testcases.LoginTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.crm.testcases.LoginTest@fdefd3f]" name="initialization" is-config="true" duration-ms="19208" started-at="2020-06-02T22:55:51Z" finished-at="2020-06-02T22:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="loginPageImagetitle()[pri:1, instance:com.crm.testcases.LoginTest@fdefd3f]" name="loginPageImagetitle" duration-ms="181" started-at="2020-06-02T22:56:10Z" finished-at="2020-06-02T22:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageImagetitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.testcases.LoginTest@fdefd3f]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-06-02T22:56:10Z" finished-at="2020-06-02T22:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.crm.testcases.LoginTest@fdefd3f]" name="initialization" is-config="true" duration-ms="11003" started-at="2020-06-02T22:56:10Z" finished-at="2020-06-02T22:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.crm.testcases.LoginTest@fdefd3f]" name="login" duration-ms="8249" started-at="2020-06-02T22:56:21Z" finished-at="2020-06-02T22:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.testcases.LoginTest@fdefd3f]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-06-02T22:56:29Z" finished-at="2020-06-02T22:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.testcases.LoginTest -->
+    </test> <!-- FreeCrmSuit -->
+  </suite> <!-- Suite1 -->
+</testng-results>
